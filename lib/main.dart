@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/layout.profil.dart';
+import 'package:flutter_application_2/layout_gabungan.dart';
 
 void main() {
   runApp(const MainApp());
@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: MaterialApp(
        title: "Aplikasi Flutter",
-       home: LayoutWidget())
+       home: LayoutGabungan())
         );
       
     

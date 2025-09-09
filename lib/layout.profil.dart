@@ -32,7 +32,7 @@ class LayoutWidget extends StatelessWidget {
                   border: Border.all(color: const Color.fromARGB(255, 0, 87, 218), width: 3),
                 ),
                 child: ClipOval(
-                  child: Image.asset('images/ardi..jpg', fit: BoxFit.cover),
+                  child: Image.asset('image/adli.jpeg', fit: BoxFit.cover),
                 ),
               ),
             ),
